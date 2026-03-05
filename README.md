@@ -23,9 +23,9 @@ The system captures live video frames and detects edges using the Canny Edge Det
 ![Original Image](originalpicture.jpg)
 
 ### Edge Detection Output
-![Edge Detection](Screenshot%20(111).png)
+![Edge Detection](edge_output1.png)
 
-![Edge Detection](Screenshot%20(112).png)
+![Edge Detection](edge_output2.png)
 
 ## Installation
 
